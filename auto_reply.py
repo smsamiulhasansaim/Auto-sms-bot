@@ -3,7 +3,7 @@ import pyautogui
 import threading
 import time
 
-AUTO_REPLY_MESSAGE = "Sorry about that "
+AUTO_REPLY_MESSAGE = "Sorry"
 
 running = False
 message_count = 0
